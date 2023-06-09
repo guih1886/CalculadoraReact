@@ -2,6 +2,7 @@
   "name": "calculadora",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://guih1886.github.io/Projeto_CalculadoraReact/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -13,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build --base-href='https://github.com/guih1886/Projeto_CalculadoraReact'",
+    "build": "react-scripts build ",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

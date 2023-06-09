@@ -6,7 +6,7 @@ Projeto de uma calculadora desenvolvida com React, CSS e JavaScript.
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Calculadora React**
 | :label: Tecnologias | React, CSS, e JavaScript
-| :rocket: URL         | 
+| :rocket: URL         | https://guih1886.github.io/Projeto_CalculadoraReact/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](#vitrinedev)
