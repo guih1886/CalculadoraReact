@@ -9,7 +9,7 @@ Projeto de uma calculadora desenvolvida com React, CSS e JavaScript.
 | :rocket: URL         | https://guih1886.github.io/Projeto_CalculadoraReact/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](https://github.com/guih1886/Projeto_CalculadoraReact/blob/main/src/assets/img1.png#vitrinedev)
 
 ## Detalhes do projeto
 
