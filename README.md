@@ -2,7 +2,7 @@
 
 Projeto de uma calculadora desenvolvida com React, CSS e JavaScript.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |    Guilherme Henrique    |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Calculadora React**
 | :label: Tecnologias | React, CSS, e JavaScript
